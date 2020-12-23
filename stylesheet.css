@@ -12,25 +12,30 @@ body{
 }
 
 header {
-    height: 80px;
+    /* height: 80px; */
     width: 100%;
-    background-color: #e699ff;
+    background-color: #385e74;
     position: fixed;
     top: 0;
     z-index: 10;
+    color: white;
 }
 
 .container {
     max-width: 1170px;
     padding: 15px;
     margin: auto;
+    display: flex;
 }
 
 .header-left{
     float:left;
 }
 
+.container h1 {
+    margin: 0 auto;
+}
+
 .header-right {
     float: right;
-    margin-right: -25px;
 }
