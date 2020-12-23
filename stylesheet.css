@@ -8,11 +8,11 @@ title{
 
 body{
     margin:auto;
-    font-family: "Lucida Grande";
+    font-family: "Brush Script MT";
 }
 
 header {
-    /* height: 80px; */
+    height: 70px;
     width: 100%;
     background-color: #3D2E88;
     background-image: url(pawel-czerwinski-fOXvuWswMDs-unsplash.jpg);
@@ -35,8 +35,65 @@ header {
 
 .container h1 {
     margin: 0 auto;
+    opacity: 0.8;
+    font-family: "Times New Roman";
 }
 
 .header-right {
     float: right;
 }
+
+.header-right i{
+    padding: 10px;
+}
+
+.header-right a {
+    line-height: 35px;
+    padding: 0 25px;
+    color: rgb(71, 32, 5);
+    display: block;
+    float: left;
+    transition: all 0.5s;
+    font-weight: 700;
+}
+
+.header-right a:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+a {
+    text-decoration: none;
+}
+
+.fa, .fas {
+    font-weight: 900;
+    padding-top: 10px;
+    font-size: large;
+}
+
+.main-content {
+    margin-top: 70px;
+}
+
+.welcome {
+    padding: 300px 0 300px 0;
+    /* background-image: url(keith-misner-h0Vxgz5tyXA-unsplash.jpg); */
+    background-size: cover;
+    color: black;
+    text-align: center;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.welcome h1 {
+    opacity: 0.7;
+    font-size: 45px;
+    letter-spacing: 5px;
+    margin-bottom: 10px;
+}
+
+img{
+    height:180px;
+    width:180px;
+}
+
