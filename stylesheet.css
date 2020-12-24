@@ -15,7 +15,7 @@ header {
     height: 70px;
     width: 100%;
     background-color: #3D2E88;
-    background-image: url(pawel-czerwinski-fOXvuWswMDs-unsplash.jpg);
+    background-image: url(mae-mu-_C5zsV_p-YI-unsplash.jpg);
     position: fixed;
     top: 0;
     z-index: 10;
@@ -68,13 +68,13 @@ a {
 
 .fa, .fas {
     font-weight: 900;
-    padding-top: 10px;
-    font-size: large;
+    padding-top: 5px;
+    font-size: xx-large;
 }
 
 .main-content {
     margin-top: 70px;
-    background-image: url(jeremy-bishop-G9i_plbfDgk-unsplash\ \(1\).jpg);
+    background-image: url(nick-nice-gPm8h3DS1s4-unsplash.jpg);
     color: whitesmoke;
     font-family: cursive ;
 }
@@ -127,10 +127,11 @@ img{
     text-align: center;
     max-width:fit-content;
     margin: 0 auto;
+    color:white;
 }
 
 .project a{
-    color:whitesmoke;
+    color:white;
     text-decoration: none;
     display: inline-block;
     padding:20px;
@@ -144,7 +145,7 @@ img{
 }
 
 #profile-link:hover{
-    background-color: dodgerblue;
+    background-color: rgb(39, 109, 179);
 }
 
 #profile-link2:hover{
@@ -152,12 +153,12 @@ img{
 }
 
 #profile-link {
-    background-color:rgba(45, 118, 185, 0.3);
+    background-color:rgba(43, 115, 184, 0.3);
 
 }
 
 #profile-link2 {
-    background-color:rgba(158, 164, 170, 0.3);
+    background-color:rgba(165, 180, 196, 0.3);
 }
 
 footer{
@@ -166,7 +167,7 @@ footer{
     width:100%;
     display:block;
     height:70px;
-    background-image:url(pawel-czerwinski-fOXvuWswMDs-unsplash.jpg);
+    background-image:url(mae-mu-_C5zsV_p-YI-unsplash.jpg);
 }
 
 footer a{
